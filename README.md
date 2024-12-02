@@ -39,7 +39,7 @@ This project is licensed under the MIT License.
 - [Har-Var](https://github.com/Har-Var)
 
 ## Acknowledgments
-Major thanks to the Election Commision of India (ECI) for providing the primary data for this project. Here is a list of links the data was sourced from:
+Major thanks to the Election Commision of India (ECI) for providing the primary data for this project. The data was sourced from the following links:
 - https://old.eci.gov.in/files/file/13539-33-constituency-wise-detailed-result/
 - https://github.com/datameet/maps/tree/master/parliamentary-constituencies
 
