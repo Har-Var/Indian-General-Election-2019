@@ -1,4 +1,4 @@
-# F1-Tracks
+# Indian General Election 2019
 
 ## Description  
 This repo only contains the data files for the dashboard [Indian General Election 2019](https://public.tableau.com/app/profile/harshit/viz/shared/B43PPB6Y4).
@@ -22,9 +22,11 @@ Clone the repository:
 ## Project Structure
 The data is organized as follows:
 * `data`: Contains all the data files.
+  - `resources`: Folder for storing supplimentary files
+      - `party_election_symbols`: Holds Image files for party symbols
   - `tableau`: Folder for storing final data files for Tableau.
-      - `2019 General Election Data.xlsx`: data file for dashboard
-      - `shapefile-parliamentary-constituencies.zip`: shapefile data for parliamentary constituencies
+      - `2019 General Election Data.xlsx`: Data file for dashboard
+      - `shapefile-parliamentary-constituencies.zip`: Shapefile for parliamentary constituencies
 
 
 ## Contributing
