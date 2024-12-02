@@ -24,7 +24,7 @@ The data is organized as follows:
 * `data`: Contains all the data files.
   - `resources`: Folder for storing supplimentary files
       - `party_election_symbols`: Holds Image files for party symbols
-  - `tableau`: Folder for storing final data files for Tableau.
+  - `tableau`: Folder for storing final data files for Tableau
       - `2019 General Election Data.xlsx`: Data file for dashboard
       - `shapefile-parliamentary-constituencies.zip`: Shapefile for parliamentary constituencies
 
